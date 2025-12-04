@@ -9,8 +9,8 @@
 
 虽然只有几百行代码，但视觉效果拉满了（特别是在大屏幕上）。
 
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/45f3ec57-00b5-4989-b3b2-484772ad95cf" />
 
-<img width="2559" height="1439" alt="e8f73c189773c8123d1047b926c7b7b2" src="https://github.com/user-attachments/assets/0ae04e79-714d-4ddf-9061-5e5e40b57b6f" />
 
 ## 🤔 这是啥？(Intro)
 
@@ -21,7 +21,8 @@
 * **隔空控物**：不需要鼠标，对着摄像头挥挥手就能控制它（感觉像奇异博士）。
 * **挂载回忆**：点右上角的按钮上传照片，它们会变成带金框的拍立得，飘在树周围。
 * **极简审美**：只有黑金配色，没有花里胡哨的装饰，主打一个“高级感”。
-<img width="2559" height="1439" alt="ff883f2aae1feb66467f580fa2a16dd3" src="https://github.com/user-attachments/assets/28ca2a10-8b0e-4c0a-b5bc-f65b6cd3028f" />
+<img width="2557" height="1291" alt="image" src="https://github.com/user-attachments/assets/d7d31b4c-bf4d-49b2-b922-79813bbddba5" />
+
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/4d691683-242b-4b94-8e6c-ff81dabf0f7d" />
 
 ## 🛠️ 用了什么 (Tech)
