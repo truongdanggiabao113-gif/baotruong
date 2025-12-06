@@ -1,3 +1,4 @@
+<!-- 如需使用请注明原作者 wp electronicminer -->
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -235,7 +236,7 @@
                     'https://images.unsplash.com/photo-1543589077-47d81606c1bf?q=80&w=600', 
                     'https://images.unsplash.com/photo-1576919228236-a097c32a5cd4?q=80&w=600',
                     'https://images.unsplash.com/photo-1512389142860-9c449e58a543?q=80&w=600', 
-                    'https://images.unsplash.com/photo-1482638588057-dce9509db949?q=80&w=600'
+                    'https://images.unsplash.com/photo-1482638588057-dce9509db949?q=80&w=600',
                 ]
             }
         };
@@ -277,7 +278,7 @@
 
             animate();
         }
-
+// wp/electronicminer wish you a Merry Christmas!
         // --- 增强版图片加载系统 ---
         function loadPredefinedImages() {
             const loader = new THREE.TextureLoader();
@@ -387,7 +388,7 @@
             caneTexture.wrapT = THREE.RepeatWrapping;
             caneTexture.repeat.set(3, 3);
         }
-
+// wp/electronicminer wish you a Merry Christmas!
         // --- 新增：雪花系统 ---
         function createSnow() {
             const geometry = new THREE.BufferGeometry();
@@ -518,7 +519,7 @@
                     rScatter * Math.cos(phi)
                 );
             }
-
+// wp/electronicminer wish you a Merry Christmas!
             update(dt, mode, focusTargetMesh) {
                 let target = this.posTree;
                 
@@ -630,7 +631,7 @@
             for (let i = 0; i < CONFIG.particles.count; i++) {
                 const rand = Math.random();
                 let mesh, type;
-                
+                // wp/electronicminer wish you a Merry Christmas!
                 if (rand < 0.40) {
                     mesh = new THREE.Mesh(boxGeo, greenMat);
                     type = 'BOX';
@@ -740,7 +741,7 @@
 
             updatePhotoLayout();
         }
-        
+        // wp/electronicminer wish you a Merry Christmas!
         function handleImageUpload(e) {
             const files = e.target.files;
             if(!files.length) return;
@@ -865,7 +866,7 @@
                 debugInfo.innerText = "No hand detected";
             }
         }
-
+// wp/electronicminer wish you a Merry Christmas!
         function setupEvents() {
             window.addEventListener('resize', () => {
                 camera.aspect = window.innerWidth / window.innerHeight;
@@ -916,7 +917,7 @@
 
             composer.render();
         }
-
+// wp/electronicminer wish you a Merry Christmas!
         init();
     </script>
 </body>
